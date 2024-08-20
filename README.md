@@ -7,3 +7,7 @@
 - Auto farm
 - Auto tap
 - Auto claim ref
+## [Wonton](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=KXSCJFXD)
+- Auto open box
+- Auto task
+- Auto list item with high price

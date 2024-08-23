@@ -1,4 +1,6 @@
 {
     "timeRerun": 240,
-    "numberThread": 1
+    "numberThread": 1,
+    "autoUpgrade": true,
+    "cardUpgradeLevel": 10
 }

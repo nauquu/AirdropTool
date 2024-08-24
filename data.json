@@ -34,30 +34,18 @@
         ],
         "paid":[
             {
-                "key": "72d67e45f50125d7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "72d67e45f50125d7"
             },
             {
-                "key": "336284af01a3dfb7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "336284af01a3dfb7"
             },
             {
-                "key": "9189d5aaa063145d",
-                "activeTime": "21/8/2024",
-                "owner": "nauquu"
+                "key": "9189d5aaa063145d"
             }
         ]
     },
     "cex": {
         "freeTrial":[
-            {
-                "key": "72d67e45f50125d7",
-                "isExpied": false,
-                "activeTime": "17/8/2024",
-                "owner": "nauquu"
-            },
             {
                 "key": "bc55d4010cbfb4bf",
                 "isExpied": false,
@@ -91,19 +79,13 @@
         ],
         "paid":[
             {
-                "key": "72d67e45f50125d7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "72d67e45f50125d7"
             },
             {
-                "key": "336284af01a3dfb7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "336284af01a3dfb7"
             },
             {
                 "key": "9189d5aaa063145d",
-                "activeTime": "23/8/2024",
-                "owner": "nauquu",
                 "note": "codespace"
             }
         ]
@@ -119,30 +101,18 @@
         ],
         "paid":[
             {
-                "key": "72d67e45f50125d7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "72d67e45f50125d7"
             },
             {
-                "key": "336284af01a3dfb7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "336284af01a3dfb7"
             },
             {
-                "key": "9189d5aaa063145d",
-                "activeTime": "20/8/2024",
-                "owner": "nauquu"
+                "key": "9189d5aaa063145d"
             }
         ]
     }, 
     "booms": {
         "freeTrial":[
-            {
-                "key": "72d67e45f50125d7",
-                "isExpied": false,
-                "activeTime": "17/8/2024",
-                "owner": "nauquu"
-            },
             {
                 "key": "7f035973d1ca97de",
                 "isExpied": false,
@@ -152,19 +122,13 @@
         ],
         "paid":[
             {
-                "key": "72d67e45f50125d7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "72d67e45f50125d7"
             },
             {
-                "key": "336284af01a3dfb7",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu"
+                "key": "336284af01a3dfb7"
             },
             {
                 "key": "9189d5aaa063145d",
-                "activeTime": "21/8/2024",
-                "owner": "nauquu",
                 "note": "codespace"
             }
         ]
@@ -181,9 +145,11 @@
         "paid":[
             {
                 "key": "561234b2605141e9",
-                "activeTime": "18/8/2024",
-                "owner": "nauquu",
                 "note": "home"
+            },
+            {
+                "key": "3877f8cdffd870d0",
+                "note": "vps"
             }
         ]
     }

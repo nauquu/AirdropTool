@@ -53,7 +53,7 @@
         "freeTrial":[
             {
                 "key": "bc55d4010cbfb4bf",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "23/8/2024",
                 "owner": "@Hclongnt"
             },
@@ -186,6 +186,11 @@
             {
                 "key": "3877f8cdffd870d0",
                 "note": "codespace"
+            },
+            {
+                "key": "4b3a21fe723c6237",
+                "activeTime": "26/8/2024",
+                "owner": "@kazama113"
             }
         ]
     }

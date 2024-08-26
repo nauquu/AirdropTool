@@ -167,5 +167,25 @@
                 "note": "vps"
             }
         ]
+    }, 
+    "toncook": {
+        "freeTrial":[
+            {
+                "key": "72d67e45f50125d7",
+                "isExpied": false,
+                "activeTime": "17/8/2024",
+                "owner": "nauquu"
+            }
+        ],
+        "paid":[
+            {
+                "key": "",
+                "note": "home"
+            },
+            {
+                "key": "acd1b1b8a2eec220",
+                "note": "vps"
+            }
+        ]
     }
 }

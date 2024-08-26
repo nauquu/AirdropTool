@@ -59,19 +59,19 @@
             },
             {
                 "key": "7f035973d1ca97de",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "23/8/2024",
                 "owner": "@daiviet12"
             },
             {
                 "key": "c864cdfb7daee1ef",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "23/8/2024",
                 "owner": "@dua_voi_nha_chua "
             },
             {
                 "key": "9fcdc5b3dceee9eb",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "23/8/2024",
                 "owner": "@hellofriend113"
             },
@@ -125,7 +125,7 @@
         "freeTrial":[
             {
                 "key": "7f035973d1ca97de",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "23/8/2024",
                 "owner": "@Trinhduc12"
             }

@@ -165,18 +165,15 @@
             {
                 "key": "3877f8cdffd870d0",
                 "note": "vps"
+            },
+            {
+                "key": "acd1b1b8a2eec220",
+                "note": "codespace"
             }
         ]
     }, 
     "toncook": {
-        "freeTrial":[
-            {
-                "key": "72d67e45f50125d7",
-                "isExpied": false,
-                "activeTime": "17/8/2024",
-                "owner": "nauquu"
-            }
-        ],
+        "freeTrial":[],
         "paid":[
             {
                 "key": "",

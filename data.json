@@ -198,5 +198,29 @@
                 "owner": "@dua_voi_nha_chua"
             }
         ]
-    }
+    }, 
+    "agent": {
+        "freeTrial":[
+            {
+                "key": "72d67e45f50125d7",
+                "isExpied": false,
+                "activeTime": "17/8/2024",
+                "owner": "nauquu"
+            }
+        ],
+        "paid":[
+            {
+                "key": "561234b2605141e9",
+                "note": "home"
+            },
+            {
+                "key": "3877f8cdffd870d0",
+                "note": "vps"
+            },
+            {
+                "key": "acd1b1b8a2eec220",
+                "note": "codespace"
+            }
+        ]
+    }, 
 }

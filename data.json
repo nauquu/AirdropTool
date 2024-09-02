@@ -237,7 +237,12 @@
     }, 
     "agent": {
         "freeTrial":[
-            
+            {
+                "key": "6534721b7dbb4801",
+                "isExpied": false,
+                "activeTime": "2/9/2024",
+                "owner": "@BoCuTe89"
+            }
         ],
         "paid":[
             {

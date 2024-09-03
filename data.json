@@ -239,21 +239,27 @@
         "freeTrial":[
             {
                 "key": "6534721b7dbb4801",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "2/9/2024",
                 "owner": "@BoCuTe89"
             },
             {
                 "key": "67f56a5b8d94e552",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "2/9/2024",
                 "owner": "@bugnhucombua"
             },
             {
                 "key": "7de3cd3273420f0f",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "2/9/2024",
                 "owner": "@toilaai33"
+            },
+            {
+                "key": "a4bb584868190f49",
+                "isExpied": false,
+                "activeTime": "3/9/2024",
+                "owner": "@linhyeunam100m"
             }
         ],
         "paid":[

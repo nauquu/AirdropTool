@@ -392,5 +392,22 @@
                 "note": "codespace"
             }
         ]
+    }, 
+    "midas": {
+        "freeTrial":[],
+        "paid":[
+            {
+                "key": "9664a39442b4715d",
+                "note": "home"
+            },
+            {
+                "key": "971be7036758873a",
+                "note": "vps"
+            },
+            {
+                "key": "9189d5aaa063145d",
+                "note": "codespace"
+            }
+        ]
     }
 }

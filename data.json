@@ -84,106 +84,22 @@
                 "owner": "@Sagn2908"
             },
             {
-                "key": "5f07304d98c0802c",
-                "isExpied": false,
-                "activeTime": "2/9/2024",
-                "owner": "@inmylove56"
-            },
-            {
                 "key": "48dbb81610be5893",
                 "isExpied": true,
                 "activeTime": "28/8/2024",
                 "owner": "@Tinhnd"
             },
             {
-                "key": "0ef43f7dc052c9f3",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@teamelitechuong"
-            },
-            {
-                "key": "db7f4da7358284e5",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@adsthucucsuc"
-            },
-            {
-                "key": "9f2d3e407514bae1",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@nevirashy"
-            },
-            {
-                "key": "e2317c0317807423",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@vitamingoo"
-            },
-            {
-                "key": "8219b0abcc13204d",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@trung98888"
-            },
-            {
-                "key": "f43a1b43b1b541e9",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@pucluc"
-            },
-            {
-                "key": "7f035973d1ca97de",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@Sherman1004"
-            },
-            {
-                "key": "855cdb329dc068a1",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@vantuyen2503"
-            },
-            {
-                "key": "4867640d5b16c7ce",
-                "isExpied": false,
-                "activeTime": "10/9/2024",
-                "owner": "@dinhvuhuy"
-            },
-            {
-                "key": "853942b74abd1993",
-                "isExpied": false,
-                "activeTime": "11/9/2024",
-                "owner": "@Saberhagen79"
-            },
-            {
-                "key": "6d3a7feea1c9136d",
-                "isExpied": false,
-                "activeTime": "12/9/2024",
-                "owner": "@Sherman1004"
-            },
-            {
-                "key": "c9aa08986a76e183",
-                "isExpied": false,
-                "activeTime": "12/9/2024",
-                "owner": "@trung98888"
-            },
-            {
-                "key": "cfb700af84a8a53f",
-                "isExpied": false,
-                "activeTime": "12/9/2024",
-                "owner": "@lhv93"
-            },
-            {
-                "key": "078aa25ab992e5db",
-                "isExpied": false,
-                "activeTime": "13/9/2024",
-                "owner": "@TieuPhamp"
-            },
-            {
                 "key": "a506c70615e77f9b",
-                "isExpied": false,
+                "isExpied": true,
                 "activeTime": "14/9/2024",
                 "owner": "@trug12323123"
+            },
+            {
+                "key": "0ef43f7dc052c9f3",
+                "isExpied": true,
+                "activeTime": "10/9/2024",
+                "owner": "@teamelitechuong"
             }
         ],
         "paid":[
@@ -203,6 +119,61 @@
                 "note": "cty"
             },
             {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@adsthucucsuc"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@nevirashy"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@vitamingoo"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@trung98888"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@pucluc"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@Sherman1004"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@vantuyen2503"
+            },
+            {
+                "key": "",
+                "activeTime": "10/9/2024",
+                "owner": "@dinhvuhuy"
+            },
+            {
+                "key": "",
+                "activeTime": "11/9/2024",
+                "owner": "@Saberhagen79"
+            },
+            {
+                "key": "",
+                "activeTime": "12/9/2024",
+                "owner": "@lhv93"
+            },
+            {
+                "key": "",
+                "activeTime": "13/9/2024",
+                "owner": "@TieuPhamp"
+            }
+            {
                 "key": "872da995e66836c0",
                 "activeTime": "25/8/2024",
                 "owner": "@mralexohe28"
@@ -215,14 +186,7 @@
         ]
     }, 
     "wonton": {
-        "freeTrial":[
-            {
-                "key": "9664a39442b4715d",
-                "isExpied": false,
-                "activeTime": "17/8/2024",
-                "owner": "nauquu"
-            }
-        ],
+        "freeTrial":[],
         "paid":[
             {
                 "key": "9664a39442b4715d"
@@ -272,14 +236,7 @@
         ]
     }, 
     "hamster": {
-        "freeTrial":[
-            {
-                "key": "9664a39442b4715d",
-                "isExpied": false,
-                "activeTime": "17/8/2024",
-                "owner": "nauquu"
-            }
-        ],
+        "freeTrial":[],
         "paid":[
             {
                 "key": "9664a39442b4715d",

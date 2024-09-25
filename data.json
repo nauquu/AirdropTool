@@ -405,10 +405,10 @@
     "bybit": {
         "freeTrial":[
             {
-                "key": "",
+                "key": "ac8c1b13026b2573",
                 "isExpied": true,
-                "activeTime": "2/9/2024",
-                "owner": ""
+                "activeTime": "25/9/2024",
+                "owner": "@thaolais"
             }
         ],
         "paid":[

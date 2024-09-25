@@ -404,5 +404,29 @@
                 "owner": "@hoangduy2911"
             }
         ]
+    },
+    "bybit": {
+        "freeTrial":[
+            {
+                "key": "",
+                "isExpied": true,
+                "activeTime": "2/9/2024",
+                "owner": ""
+            }
+        ],
+        "paid":[
+            {
+                "key": "9664a39442b4715d",
+                "note": "home"
+            },
+            {
+                "key": "9a1487f8aa59c8df",
+                "note": "vps"
+            },
+            {
+                "key": "9189d5aaa063145d",
+                "note": "codespace"
+            }
+        ]
     }
 }

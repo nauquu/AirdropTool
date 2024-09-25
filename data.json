@@ -406,7 +406,7 @@
         "freeTrial":[
             {
                 "key": "ac8c1b13026b2573",
-                "isExpied": true,
+                "isExpied": false,
                 "activeTime": "25/9/2024",
                 "owner": "@thaolais"
             }

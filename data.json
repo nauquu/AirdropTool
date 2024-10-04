@@ -485,7 +485,14 @@
         ]
     },
     "gumart": {
-        "freeTrial":[],
+        "freeTrial":[
+            {
+                "key": "ca409cc63087dd53",
+                "isExpied": false,
+                "activeTime": "4/10/2024",
+                "owner": "@trung98888"
+            }
+        ],
         "paid":[
             {
                 "key": "9664a39442b4715d",
